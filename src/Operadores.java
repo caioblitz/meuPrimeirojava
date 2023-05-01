@@ -1,3 +1,5 @@
+import javax.swing.plaf.synth.SynthScrollBarUI;
+
 public class Operadores {
     String nome = "Caio Augusto Machado";
     int idade = 30;
@@ -13,6 +15,8 @@ public class Operadores {
     int divisão = 15 / 3;
     int modulo = 18 % 3;
     double resultado = (10 * 7) + (20 / 4);
+    
+    
 
     
 }

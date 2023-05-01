@@ -9,10 +9,6 @@ public static void main(String[] args) {
 
     // Tipos de variaveis
     
-    short numeroCurto = 1;
-    int numeroNormal = numeroCurto;
-    short numeroCurto2 = numeroNormal;
-
 
 } 
     
