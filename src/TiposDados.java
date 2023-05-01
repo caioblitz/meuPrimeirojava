@@ -7,6 +7,13 @@ public static void main(String[] args) {
     float pi = 3.14F;
     double salario = 1275.33;
 
+    // Tipos de variaveis
+    
+    short numeroCurto = 1;
+    int numeroNormal = numeroCurto;
+    short numeroCurto2 = numeroNormal;
+
+
 } 
     
 }
